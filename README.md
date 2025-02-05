@@ -97,7 +97,7 @@ This is a simple web-based 4x4 grid calculator built using Java Server Pages (JS
 
 1. Start your web server (e.g., Apache Tomcat).
 
-2. Open your web browser and navigate to `http://localhost:8080/grid-calculator` (adjust the URL based on your server configuration).
+2. Open your web browser and navigate to `http://localhost:8082/Calci/app.jsp` (adjust the URL based on your server configuration).
 
 3. The calculator interface should be displayed. Enter your calculation by clicking the buttons on the grid, and the result will be shown in the result input box.
 
