@@ -94,8 +94,11 @@ This is a simple web-based 4x4 grid calculator built using Java Server Pages (JS
 
  ScreenShots
 ![Screenshot 2025-02-05 122802](https://github.com/user-attachments/assets/69738a58-1beb-4b02-b121-4b73daa6a3a5)
+
 ![Screenshot 2025-02-05 122852](https://github.com/user-attachments/assets/3eca83dd-686d-463e-a8a7-a4fed59aad0c)
+
 ![Screenshot 2025-02-05 122941](https://github.com/user-attachments/assets/b85643c5-973d-4cd3-a20d-4654114de3b0)
+
 ![Screenshot 2025-02-05 123012](https://github.com/user-attachments/assets/791c418e-252c-4d0d-a853-67426b2c799d)
 
  Usage
